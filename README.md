@@ -10,17 +10,13 @@ The workflow combines customer, call, product, and tariff data into one cohesive
 To create a unified dataset by merging and cleansing data from different sources, improving consistency, and preparing it for advanced analytics.
 
 ## Tools and Datasets
--IBM SPSS Modeler
 
--telco x call data q1.sav
-
--telco x call data q2.sav
-
--telco x customer data.xlsx
-
--telco x products.dat
-
--telco x tariff.dat
+- IBM SPSS Modeler
+- telco x call data q1.sav
+- telco x call data q2.sav
+- telco x customer data.xlsx
+- telco x products.dat
+- telco x tariff.dat
 
 ## Workflow Summary
 
@@ -33,6 +29,6 @@ To create a unified dataset by merging and cleansing data from different sources
 
 ## Outcome
 
--Successfully integrated all datasets into one unified telecom data file.
--Ensured data accuracy, consistency, and completeness.
--Prepared the dataset for further analysis and modeling tasks.
+- Successfully integrated all datasets into one unified telecom data file.
+- Ensured data accuracy, consistency, and completeness.
+- Prepared the dataset for further analysis and modeling tasks.
