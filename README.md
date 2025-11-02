@@ -11,10 +11,15 @@ To create a unified dataset by merging and cleansing data from different sources
 
 ## Tools and Datasets
 -IBM SPSS Modeler
+
 -telco x call data q1.sav
+
 -telco x call data q2.sav
+
 -telco x customer data.xlsx
+
 -telco x products.dat
+
 -telco x tariff.dat
 
 ## Workflow Summary
